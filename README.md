@@ -15,7 +15,7 @@ The package is installed in the ```cdem3d``` environment. Provided you are in th
 
 ## Testing:
 
-In a terminal/command window:
+In a terminal window:
 
 - If you are not in the ```cdem3d``` environment, activate it: ```conda activate cdem3d```
 - cd to the ```tests``` folder
