@@ -66,4 +66,6 @@ Visualizing cdem3D simulations is computer intensive so one must be strategic:
 
 ## Contact
 
-Any questions please [contact me](mailto:nestor.cardozo@uis.no) 
+Any questions about the package please [contact me](mailto:nestor.cardozo@uis.no) 
+
+Any questions about ```cdem3D``` please [contact Stuart Hardy](mailto:stuart.hardy@icrea.cat)
