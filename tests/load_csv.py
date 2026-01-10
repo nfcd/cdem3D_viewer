@@ -29,10 +29,10 @@ f_id = 2 # plot particles colored by displacement in y direction
 f_id = 3 # plot particles colored by displacement in z direction
 f_id = 4 # plot particles colored by displacement magnitude
 f_id = 5 # plot particles colored by maximum elongation
-# f_id = 6 # plot particles colored by intermediate elongation
-# f_id = 7 # plot particles colored by minimum elongation
-# f_id = 8 # plot particles colored by maximum shear strain
-# f_id = 9 # plot particles colored by dilation
+f_id = 6 # plot particles colored by intermediate elongation
+f_id = 7 # plot particles colored by minimum elongation
+f_id = 8 # plot particles colored by maximum shear strain
+f_id = 9 # plot particles colored by dilation
 """
 
 # plot the particles and color them by maximumum elongation
